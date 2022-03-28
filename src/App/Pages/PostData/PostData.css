@@ -1,0 +1,17 @@
+.PostData {
+  width: 90%;
+  margin: auto;
+}
+.post_image_container {
+  width: 80%;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+}
+.post_image_container img {
+  width: 100%;
+  border-radius: 50px;
+}
+.details_container {
+  text-align: center;
+}
